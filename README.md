@@ -153,6 +153,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/ca6bdea3-6d13-4c20-bf8f-0
 - front에서 api 직접 요청 x back으로 요청 o
 
 ## 3. 주변 은행 찾기 (비로그인 / 로그인)
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/e32e165f-2659-4d91-b9d9-a9e5a13d61e4
 - KAKAO MAP API 사용
 - 비로그인 시 로그인 팝업(1회)
@@ -165,6 +166,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/c18ffae2-a16c-45cf-9bec-f
 - 로그인 되어있을 경우 팝업이 뜨지않고 하단의 금융 상품 조회 가능
 
 ## 4-1. 회원가입 (성공)
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/2afaf557-13cf-4453-b6be-550f3d0cf80f
 - 로그인 창의 회원가입 또는 modal을 통해 이동 가능
 - 필수 데이터* 확인
@@ -172,6 +174,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/2afaf557-13cf-4453-b6be-5
 - 자동 로그인
 
 ## 4-2. 회원가입 (오류)
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/d316a261-97a8-4a43-ba92-3110a675f893
 - Vuelidate 라이브러리를 통해 Front에서 1차 유효성 검사 실시
 - 비밀번호 자리수를 만족하지 못하거나 다른 비밀번호 입력시 error 발생
@@ -185,17 +188,20 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/9ab7e1b2-72ed-42e1-a7b0-d
 - Username 중복 시 메세지 알람
 
 ## 5. 로그인
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/3757a94e-d6e4-43e1-a024-d35d102c6d59
 - Vuelidate를 통해 1차 유효성 검사
 - 비밀번호 input 중, type visible 토글
 - 로그인 완료 시 환영 문구 출력
 
 ## 6. 프로필 변경
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/662541e9-8bd8-4ec0-ad74-201ca221f4a5
 - Edit Profile을 통해 변경(dialog)
 - 회원 프로필 사진 변경 가능
 
 ## 7. 댓글 CRUD
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/cbe5f03a-badd-4024-a660-382385468801
 - hint를 통해 UX 향상
 - 새로고침 없는 Create, Read, Delete
@@ -203,6 +209,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/cbe5f03a-badd-4024-a660-3
 - 댓글 작성자 권한 부여
 
 ## 8. 게시글CRUD + 댓글(작성자 구분)
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/9371c743-4622-4ece-93e0-b0fc97482d92
 - 게시글 생성 페이지와 수정 페이지 
 - 게시글 작성자 권한 부여
@@ -215,6 +222,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/ebb1e09e-1236-4b13-a1fd-c
 - 포함된 댓글 자동 삭제
 
 ## 9. 예금 리스트
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/a387aeb1-7a2e-4ad0-b738-dae1af58477f
 - 예금 / 적금 선택 페이지
 - v-data-table-virtual을 통해 데이터 테이블 제작
@@ -229,12 +237,14 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/7fde8ee5-a1db-4421-a898-e
 - 은행별 금융 상품 조회 가능
 
 ## 10. 적금 리스트
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/5d835899-793c-4806-9b52-4d7e82f82eb8
 - 자유 적립식, 정액 적립식 분류
 - 은행별 금융 상품 조회 가능
 - 유형 토글 가능
 
 ## 11. 상품 Detail
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/9028eced-ca27-4017-a8a6-3b8a31d541a2
 - 상품 명 클릭을 통해 예금의 세부 내용 확인
 - 기간별 금리(기본 금리 + 최고 우대 금리) 막대 그래프 비교
@@ -247,6 +257,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/cb80e5e6-e273-4612-9f0f-2
 - 꿀통 추가 / 제거 적절한 애니메이션
 
 ## 12. Profile 페이지 (담은 꿀통 확인 및 삭제)
+
 https://github.com/piaoria/HoneyMoney/assets/155702981/c6e66cab-1809-42d6-b624-7ac638ed30f6
 - 실시간 꿀통에 담은 예금(위) / 적금(아래) 확인 가능
 - carousel을 통한 UX 향상
@@ -259,6 +270,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/c6e66cab-1809-42d6-b624-7
 https://github.com/piaoria/HoneyMoney/assets/155702981/b522c7db-25aa-4906-8591-a2f9f68db7db
 - 자산, 연봉, 희망기간 등 개인 정보에 맞춤 추천 서비스
 - 예금 / 적금 한눈에 확인 가능
+  
 https://github.com/piaoria/HoneyMoney/assets/155702981/1f0c87f8-6ce1-4bf0-a86e-744fd8436533
 - 연령대 별 추천 서비스
 - 예금 / 적금 한눈에 확인 가능
