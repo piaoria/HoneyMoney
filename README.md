@@ -167,7 +167,7 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/c18ffae2-a16c-45cf-9bec-f
 ## 4-1. 회원가입 (성공)
 https://github.com/piaoria/HoneyMoney/assets/155702981/2afaf557-13cf-4453-b6be-550f3d0cf80f
 - 로그인 창의 회원가입 또는 modal을 통해 이동 가능
-- * 필수 데이터 확인
+- 필수 데이터* 확인
 - 약관 동의 확인
 - 자동 로그인
 
