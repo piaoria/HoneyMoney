@@ -204,39 +204,60 @@ https://github.com/piaoria/HoneyMoney/assets/155702981/7fde8ee5-a1db-4421-a898-e
 https://github.com/piaoria/HoneyMoney/assets/155702981/5d835899-793c-4806-9b52-4d7e82f82eb8
 
 ### 11. 상품 Detail
-
 https://github.com/piaoria/HoneyMoney/assets/155702981/9028eced-ca27-4017-a8a6-3b8a31d541a2
-
+- 상품 명 클릭을 통해 예금의 세부 내용 확인
+- 기간별 금리(기본 금리 + 최고 우대 금리) 막대 그래프 비교
+  
 https://github.com/piaoria/HoneyMoney/assets/155702981/cb80e5e6-e273-4612-9f0f-274bdaeacee5
+- 상품 명 클릭을 통해 적금의 세부 내용 확인
+- 자유적립식, 정액적립식 tab 기능
+- 자유적립식과 정액적립식 막대 그래프 한눈 비교
+- 우측 상단 꿀통 버튼 클릭을 통해 꿀통에 담기 가능
+- 꿀통 추가 / 제거 적절한 애니메이션
 
 ### 12. Profile 페이지 (담은 꿀통 확인 및 삭제)
-
 https://github.com/piaoria/HoneyMoney/assets/155702981/c6e66cab-1809-42d6-b624-7ac638ed30f6
+- 실시간 꿀통에 담은 예금(위) / 적금(아래) 확인 가능
+- carousel을 통한 UX 향상
+- 상품 Detail 확인 가능
+- 카드의 X 표시를 통해 쉬운 삭제 가능
+- 카드 좌측 위 꿀통 그림속 카드 갯수 출력
+- 담긴 꿀통의 은행 로고 출력
 
 ### 13. Recommend Page
-
 https://github.com/piaoria/HoneyMoney/assets/155702981/b522c7db-25aa-4906-8591-a2f9f68db7db
-
+- 자산, 연봉, 희망기간 등 개인 정보에 맞춤 추천 서비스
+- 예금 / 적금 한눈에 확인 가능
 https://github.com/piaoria/HoneyMoney/assets/155702981/1f0c87f8-6ce1-4bf0-a86e-744fd8436533
-
-https://github.com/piaoria/HoneyMoney/assets/155702981/01a1817e-586c-4f9a-80cc-8a951319004b
+- 연령대 별 추천 서비스
+- 예금 / 적금 한눈에 확인 가능
 
 ### 14. Profile 변경 후 Recommend Page
-
 https://github.com/piaoria/HoneyMoney/assets/155702981/c417b204-e560-44bc-b0d1-7d9bd4523263
+- Profile 변경 후 실시간 적용되는 Recommend 상품
+- 변경사항 적용되는 희망기간 하이라이트
 
 ### 15. AI ChatBot
 https://github.com/piaoria/HoneyMoney/assets/155702981/0b382da9-069a-42a4-8385-a2e07a504f50
+- v-show + dialog 활용
+- GPT-4 사용 (개인 API 키)
+- Prompt Engineering을 통한 금융 챗봇 최적화
 
 https://github.com/piaoria/HoneyMoney/assets/155702981/a4967a61-ea72-47a4-9c6a-58259cd560e0
+- 나이, 연봉, 재산, 희망 기간에 따른 개인 계정에 맞춤 데이터 사용
 
 https://github.com/piaoria/HoneyMoney/assets/155702981/72cae23e-28f3-4e16-a9df-3d0c31dacb72
+- 부족한 정보 (URL, 전화번호) 추가 제공
+- URL 제공을 위한 데이터 가공
 
 ### 16. 회원탈퇴
 https://github.com/piaoria/HoneyMoney/assets/155702981/860af049-182b-439d-a096-7e799c5de4aa
+- 프로필 설정에서 회원탈퇴 가능
+- 취소 / 확인 시 적절한 alert 설정
 
 https://github.com/piaoria/HoneyMoney/assets/155702981/df809d26-3f7e-4034-a053-20dbe05d2898
-
+- 계정 데이터 삭제 확인
+- 이전 게시한 게시글, 댓글 모두 자동 삭제
 
 
 
